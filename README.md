@@ -34,3 +34,7 @@ The image shown below is the result obtain by applying pretrained Resnet50 using
 - [Kaggle Notebooks](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/notebooks)
 - [Detecting Deforestation from Satellite Imagery](https://towardsdatascience.com/understanding-the-amazon-rainforest-with-deep-learning-732bfb2eca6e)
 - [Planet Amazon Deforestation](https://github.com/planetlabs/planet-amazon-deforestation)
+
+
+### Contributors
+<p align="left"><a href="http://chiragsamal.github.io/"><img src="https://avatars.githubusercontent.com/u/52205244?s=400&u=dd85ae5a28a5cceb54d7dcdbda442341efb0ed45&v=4" width="200px;" alt=""/><br /><sub><b>Chirag Samal</b></sub></a><br /><a href="https://github.com/chiragsamal/Steel-Surface-Defect-Detection/commits?author=chiragsamal" title="Code">💻</a> <a href="https://github.com/chiragsamal/Steel-Surface-Defect-Detection/commits?author=chiragsamal" title="Documentation">📖</a> <a href="#maintenance-chiragsamal" title="Maintenance">🚧</a> <a href="#ideas-chiragsamal" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-th3c0d3br34ker" title="Answering Questions">💬</a></p>
